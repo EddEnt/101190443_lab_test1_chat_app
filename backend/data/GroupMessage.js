@@ -1,4 +1,4 @@
-export const GroupMessages = [
+const GroupMessages = [
   {
     fromUser: "EddEnt",
     room: "Lab Test Disscusion",
@@ -6,3 +6,5 @@ export const GroupMessages = [
     dateSent: "06-02-2023 04:37 PM",
   },
 ];
+
+export default GroupMessages;

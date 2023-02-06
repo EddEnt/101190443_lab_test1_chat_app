@@ -1,4 +1,4 @@
-export const Users = [
+const Users = [
   {
     username: "EddEnt",
     firstName: "Edward",
@@ -14,3 +14,5 @@ export const Users = [
     creationDate: "06-02-2023 08:30 PM",
   },
 ];
+
+export default Users;

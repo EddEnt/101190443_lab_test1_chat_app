@@ -1,4 +1,4 @@
-export const PrivateMessages = [
+const PrivateMessages = [
   {
     fromUser: "EddEnt",
     toUser: "pritamworld",
@@ -6,3 +6,5 @@ export const PrivateMessages = [
     dateSent: "06-02-2023 04:28 PM",
   },
 ];
+
+export default PrivateMessages;
